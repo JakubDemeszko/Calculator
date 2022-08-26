@@ -1,1 +1,4 @@
-# In this project you can find a simple v1 calculator described in Python which might help you in counting the data in quadratic function, like zero places or correct values in the range.
+Over here you can find some first projects created by me in Python. 
+Focusing on:
+- Data analyse
+- getting closer to the functions and in general language
